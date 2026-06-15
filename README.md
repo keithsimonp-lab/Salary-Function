@@ -1,5 +1,5 @@
 # Salary-Function - Jupyter Notebook
-Data processing and file handling for Salary data
+
 In this project we explore and analyze employee salary data.I load data, find specific employee information, process salaries, and export data.
 
 Getting Started
